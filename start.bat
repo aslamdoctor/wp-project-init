@@ -8,7 +8,7 @@ E:
 cd %currentpath%
 
 :: Ask for Project Name
-SET /P _project_name= Please enter an input:
+SET /P _project_name= Please enter project name:
 echo Project Name: %_project_name%
 
 
